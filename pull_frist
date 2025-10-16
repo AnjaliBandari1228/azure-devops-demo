@@ -1,0 +1,3 @@
+lkjhgfdsapoiuytrewqgit rm -r --cached azure-devops-demo
+git commit -m "Removed nested repo folder"
+git push
